@@ -51,7 +51,7 @@ body{
     width: 12vh;
 }
 #score #joueur1 input, #joueur2 input{
-    margin: 10px;
+    margin: 0.4vh;
     align-self: center;
     text-align: center;
     width: 20vh;
